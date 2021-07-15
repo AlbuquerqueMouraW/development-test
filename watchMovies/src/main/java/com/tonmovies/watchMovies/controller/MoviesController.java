@@ -37,13 +37,19 @@ public class MoviesController {
 	public ResponseEntity<Movies> GetById(@PathVariable long movieId){
 		return repository.findById(movieId)
 				.map(resp -> ResponseEntity.ok(resp))
-				.orElse(ResponseEntity.notFound().build());		
+				.orElse(ResponseEntity.notFound().build());	// Não encontrando o ID(NotFound)	
 	}
 	
 	//Método responsável por buscar filmes pelo titulo(ignoreCase)
 	@GetMapping("/title/{title}")
 	public ResponseEntity<List<Movies>> GetByTitulo(@PathVariable String title) {
 				return ResponseEntity.ok(repository.findAllByTitleContainingIgnoreCase(title));		
+	}
+	
+	//Método responsável por buscar filmes pelo genero(ignoreCase)
+	@GetMapping("/genres/{genres}")
+	public ResponseEntity<List<Movies>> getByGenres(@PathVariable String genres) {
+		return ResponseEntity.ok(repository.findAllByGenresContainingIgnoreCase(genres));
 	}
 
 	//Método POST

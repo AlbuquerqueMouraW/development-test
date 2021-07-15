@@ -10,6 +10,12 @@ import com.tonmovies.watchMovies.model.Movies;
 
 @Repository
 public interface MoviesRepository extends JpaRepository<Movies, Long> {
+	
+	//Busca pelo titulo(IgnoreCase) 
 	public List<Movies> findAllByTitleContainingIgnoreCase (String title);
+	
+	//Busca pelo genero(IgnoreCases)
+	public List<Movies> findAllByGenresContainingIgnoreCase (String genres);
+	
 
 }
