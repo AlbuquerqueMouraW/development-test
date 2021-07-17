@@ -15,9 +15,9 @@ Testes de APIs POSTMAN; </h3>
 
 # Como executar o projeto
 
-1 - <h2>Clone o repositório </h2>
+<h2>1 - Clone o repositório </h2>
 
-2 - <h2>Import o projeto em sua IDE </h2> 
+<h2>2 - Import o projeto em sua IDE </h2> 
 
 3 - <h2>Rode o projeto </h2>
     <p alingn ="start">
