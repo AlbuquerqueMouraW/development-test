@@ -39,23 +39,23 @@ A aplicação consiste em um teste que faz parte do processo seleivo da empresa 
     <p alingn ="start">
     <img width="660" src="watchMovies/src/assets/getAll_2.jpg">
     </p>
-    <h4>Vale dizer que pode ser feita uma busca pelo ID, usando a URL http://localhost:8080/movies/{moviesId}, conforme demonstrado abaixo:</h4>
+    <h4>7a - Busca por ID, usando a URL http://localhost:8080/movies/{moviesId}, conforme demonstrado abaixo:</h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getID_3_LI.jpg">
     </p>
-    <h4>Pode-se também fazer a busca por título, usando a URL http://localhost:8080/movies/title/{title}, conforme exemplo a seguir: </h4>
+    <h4>7b - Busca por título, usando a URL http://localhost:8080/movies/title/{title}, conforme exemplo a seguir: </h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getTitle_4_LI.jpg">
     </p>
-    <h4>Não é preciso buscar pelo título completo:</h4>
+    <h4> Não é preciso buscar pelo título completo:</h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getTitleLetter_5_LI.jpg">
     </p>
-    <h4>Pode ser feita a busca por gênero, usando a URL http://localhost:8080/movies/genres/{genres}, conforme imagem a seguir:</h4>
+    <h4>7c - Busca por gênero, usando a URL http://localhost:8080/movies/genres/{genres}, conforme imagem a seguir:</h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getGenres_6_LI.jpg">
     </p>
-    <h4>Não é preciso buscar pelo nome completo do gênero: </h4>
+    <h4> Não é preciso buscar pelo nome completo do gênero: </h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getGenresLetter_7_LI.jpg">
     </p>
