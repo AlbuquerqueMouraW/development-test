@@ -77,5 +77,5 @@ Testes de API POSTMAN; </h3>
 
 Washington Albuquerque de Moura
 
-Linkedin: linkedin.com/in/washington-albuquerque-729223aa/
-GitHub: https://github.com/AlbuquerqueMouraW
+<p>Linkedin: linkedin.com/in/washington-albuquerque-729223aa/</p>
+<p>GitHub: https://github.com/AlbuquerqueMouraW </p>
