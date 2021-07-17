@@ -26,7 +26,7 @@ Testes de API POSTMAN; </h3>
 
 <h3>4 - Abra a pasta src/main/resources e altere Aplication properties - Alterar username e password do seu banco de dados (MySQL Workbench) </h3>
    <p alingn ="start">
-   <img width="360" src="/watchMovies/src/assets/aplication_propertis_LI">
+   <img width="360" src="/watchMovies/src/assets/aplication_propertis_LI.jpg">
    </p>
    
 <h3>5 - Abra o Postman </h3>
@@ -34,13 +34,13 @@ Testes de API POSTMAN; </h3>
 <h3>6 - Para inserir um filme (POST-CREATE):</h3>
    Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "POST" e no campo abaixo adicione as informações no formato JSON, clique no botão "SEND".
    <p alingn ="start">
-   <img width="360" src="/watchMovies/src/assets/Post_1">
+   <img width="360" src="watchMovies/src/assets/Post_1.jpg">
    </p>
    
 <h3>7 - Para buscar todos os filmes inseridos (GET-READ): </h3>
     Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "GET" e clique no botão "SEND", conforme imagem a seguir: 
     <p alingn ="start">
-    <img width="360" src="/watchMovies/src/assets/getAll_2">
+    <img width="360" src="./watchMovies/src/assets/getAll_2.jpg">
     </p>
     <h4>Vale dizer que pode ser feita uma busca pelo ID, usando a URL http://localhost:8080/movies/{moviesId}, conforme demonstrado a seguir:</h4>
     <p alingn ="start">
