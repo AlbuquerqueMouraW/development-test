@@ -28,46 +28,46 @@ A aplicação consiste em um teste que faz parte do processo seleivo da empresa 
    
 <h3>5 - Abra o Postman </h3>
 
-<h3>6 - Para inserir um filme (POST-CREATE):</h3>
-   Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "POST" e no campo abaixo adicione as informações no formato JSON, clique no botão "SEND".
+<h3>6 - Para inserir um filme (POST-CREATE)</h3>
+   Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "POST" e no campo abaixo adicione as informações no formato JSON, clique no botão "SEND":
    <p alingn ="start">
    <img width="660" src="watchMovies/src/assets/Post_1.jpg">
    </p>
    
-<h3>7 - Para buscar todos os filmes inseridos (GET-READ): </h3>
+<h3>7 - Para buscar todos os filmes inseridos (GET-READ) </h3>
     Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "GET" e clique no botão "SEND", conforme imagem a seguir: 
     <p alingn ="start">
     <img width="660" src="watchMovies/src/assets/getAll_2.jpg">
     </p>
-    <h4>Vale dizer que pode ser feita uma busca pelo ID, usando a URL http://localhost:8080/movies/{moviesId}, conforme demonstrado a seguir:</h4>
+    <h4>Vale dizer que pode ser feita uma busca pelo ID, usando a URL http://localhost:8080/movies/{moviesId}, conforme demonstrado abaixo:</h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getID_3_LI.jpg">
     </p>
-    <h4>Pode-se também fazer a busca por título, usando a URL http://localhost:8080/movies/title/{title}, conforme demonstrado a seguir: </h4>
+    <h4>Pode-se também fazer a busca por título, usando a URL http://localhost:8080/movies/title/{title}, conforme exemplo a seguir: </h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getTitle_4_LI.jpg">
     </p>
-    <h4>Não é preciso buscar pelo título completo</h4>
+    <h4>Não é preciso buscar pelo título completo:</h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getTitleLetter_5_LI.jpg">
     </p>
-    <h3>Pode ser feita a busca por gênero, usando a URL http://localhost:8080/movies/genres/{genres}, conforme demonstrado a seguir:</h3>
+    <h3>Pode ser feita a busca por gênero, usando a URL http://localhost:8080/movies/genres/{genres}, conforme imagem a seguir:</h3>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getGenres_6_LI.jpg">
     </p>
-    <h4>Não é preciso buscar pelo nome completo do gênero </h4>
+    <h4>Não é preciso buscar pelo nome completo do gênero: </h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getGenresLetter_7_LI.jpg">
     </p>
     
-<h3>8 - Para atualizar um dado inserido (PUT-UPDATE): </h3>
-     Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "PUT" e no campo abaixo escreva a alteração que deseja fazer em formato JSON, lembrando de preencher as informações de {movieId},{title} para que seja identificado o dado exato que deseja alterar.
+<h3>8 - Para atualizar um dado inserido (PUT-UPDATE) </h3>
+     Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "PUT" e no campo abaixo escreva a alteração que deseja fazer em formato JSON, lembrando de preencher as informações de {movieId}, {title} para que seja identificado o dado exato que deseja alterar:
      <p alingn ="start">
      <img width="660" src="/watchMovies/src/assets/Put_8_LI.jpg">
      </p>
      
-<h3>9 - Para deletar um filme inserido (DELETE):</h3>
-     Usando a URL http://localhost:8080/movies/{moviesId} (onde {moviesId} é o ID do filme que deseja deletar), selecione no campo de ação a opção "DELETE" e clique no botão "SEND"
+<h3>9 - Para deletar um filme inserido (DELETE)</h3>
+     Usando a URL http://localhost:8080/movies/{moviesId} (onde {moviesId} é o ID do filme que deseja deletar), selecione no campo de ação a opção "DELETE" e clique no botão "SEND":
       <p alingn ="start">
      <img width="660" src="/watchMovies/src/assets/delete_9_LI.jpg">
      </p>
