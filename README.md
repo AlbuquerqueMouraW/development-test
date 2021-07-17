@@ -10,7 +10,7 @@ A aplicação consiste em um teste que faz parte do processo seleivo da empresa 
 
 <h3><p>Linguagem JAVA;</p> 
 <p>Framework SPRING;</p>
-<p>Banco de dados(local) MYSQL WORKBENCH;</p>
+<p>Banco de dados (local) MYSQL WORKBENCH;</p>
 <p>Testes de API POSTMAN; </p></h3>
 
 # Como executar o projeto
@@ -61,7 +61,7 @@ A aplicação consiste em um teste que faz parte do processo seleivo da empresa 
     </p>
     
 <h3>8 - Para atualizar um dado inserido (PUT-UPDATE) </h3>
-     Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "PUT" e no campo abaixo escreva a alteração que deseja fazer em formato JSON, lembrando de preencher as informações de {movieId}, {title} para que seja identificado o dado exato que deseja alterar:
+     Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "PUT" e no campo abaixo escreva a alteração que deseja fazer em formato JSON, lembrando de preencher as informações {movieId} e {title} para que seja identificado o dado exato que deseja alterar:
      <p alingn ="start">
      <img width="660" src="/watchMovies/src/assets/Put_8_LI.jpg">
      </p>
