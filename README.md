@@ -9,17 +9,17 @@ A aplicação consiste em um teste que faz parte do processo seleivo da empresa 
 <h2>BACK-END</h2>
 
 <h3>Linguagem JAVA; 
-Framework SPRING;
-Banco de dados(local) MYSQL WORKBENCH;
-Testes de API POSTMAN; </h3>
+<p>Framework SPRING;</p>
+<p>Banco de dados(local) MYSQL WORKBENCH;</p>
+<p>Testes de API POSTMAN; </p></h3>
 
 # Como executar o projeto
 
 <h3>1 - Clone o repositório </h3>
 
-<h3>2 - Import o projeto em sua IDE </h3> 
+<h3>2 - Importe o projeto em sua IDE </h3> 
 
-<h3>3 - Rode o projeto - clicando com o botão direito em cima da aplicação principal > Run As > Java Aplication </h3>
+<h3>3 - Rode o projeto clicando com o botão direito em cima da aplicação principal > Run As > Java Aplication </h3>
 
 <h3>4 - Abra a pasta src/main/resources e altere Aplication properties - Alterar username e password do seu banco de dados (MySQL Workbench) </h3>
    <p alingn ="start">
