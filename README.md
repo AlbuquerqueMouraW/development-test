@@ -51,7 +51,7 @@ A aplicação consiste em um teste que faz parte do processo seleivo da empresa 
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getTitleLetter_5_LI.jpg">
     </p>
-    <h3>Pode ser feita a busca por gênero, usando a URL http://localhost:8080/movies/genres/{genres}, conforme imagem a seguir:</h3>
+    <h4>Pode ser feita a busca por gênero, usando a URL http://localhost:8080/movies/genres/{genres}, conforme imagem a seguir:</h4>
     <p alingn ="start">
     <img width="660" src="/watchMovies/src/assets/getGenres_6_LI.jpg">
     </p>
