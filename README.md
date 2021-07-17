@@ -8,7 +8,7 @@ A aplicação consiste em um teste que faz parte do processo seleivo da empresa 
 # Tecnologias utilizadas
 <h2>BACK-END</h2>
 
-<h3>Linguagem JAVA; 
+<h3><p>Linguagem JAVA;</p> 
 <p>Framework SPRING;</p>
 <p>Banco de dados(local) MYSQL WORKBENCH;</p>
 <p>Testes de API POSTMAN; </p></h3>
