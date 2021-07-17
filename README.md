@@ -6,12 +6,12 @@ watchMovie é uma aplicação REST (back-end) contruída com o intuito de listar
 A aplicação consiste em um teste que faz parte do processo seleivo da empresa TKSolution. 
 
 # Tecnologias utilizadas
-##BACK-END
+<h2>BACK-END</h2>
 
-###Linguagem JAVA
-###Framework SPRING
-###Banco de dados(local) MYSQL WORKBENCH
-###Testes de APIs POSTMAN
+<h3>Linguagem JAVA 
+Framework SPRING
+Banco de dados(local) MYSQL WORKBENCH
+Testes de APIs POSTMAN </h3>
 
 # Como executar o projeto
 
