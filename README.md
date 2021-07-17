@@ -19,10 +19,7 @@ Testes de API POSTMAN; </h3>
 
 <h3>2 - Import o projeto em sua IDE </h3> 
 
-<h3>3 - Rode o projeto </h3>
-    <p alingn ="start">
-   <img width="660" src="watchMovies/src/assets/java_aplication.jpg">
-   </p> 
+<h3>3 - Rode o projeto - clicando com o botão direito em cima da aplicação principal > Run As > Java Aplication </h3>
 
 <h3>4 - Abra a pasta src/main/resources e altere Aplication properties - Alterar username e password do seu banco de dados (MySQL Workbench) </h3>
    <p alingn ="start">
