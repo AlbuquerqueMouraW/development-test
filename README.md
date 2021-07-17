@@ -21,12 +21,12 @@ Testes de API POSTMAN; </h3>
 
 <h3>3 - Rode o projeto </h3>
     <p alingn ="start">
-   <img width="560" src="watchMovies/src/assets/java_aplication.jpg">
+   <img width="660" src="watchMovies/src/assets/java_aplication.jpg">
    </p> 
 
 <h3>4 - Abra a pasta src/main/resources e altere Aplication properties - Alterar username e password do seu banco de dados (MySQL Workbench) </h3>
    <p alingn ="start">
-   <img width="460" src="watchMovies/src/assets/aplication_propertis_LI.jpg">
+   <img width="660" src="watchMovies/src/assets/aplication_propertis_LI.jpg">
    </p>
    
 <h3>5 - Abra o Postman </h3>
@@ -40,39 +40,39 @@ Testes de API POSTMAN; </h3>
 <h3>7 - Para buscar todos os filmes inseridos (GET-READ): </h3>
     Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "GET" e clique no botão "SEND", conforme imagem a seguir: 
     <p alingn ="start">
-    <img width="360" src="watchMovies/src/assets/getAll_2.jpg">
+    <img width="660" src="watchMovies/src/assets/getAll_2.jpg">
     </p>
     <h4>Vale dizer que pode ser feita uma busca pelo ID, usando a URL http://localhost:8080/movies/{moviesId}, conforme demonstrado a seguir:</h4>
     <p alingn ="start">
-    <img width="360" src="/watchMovies/src/assets/getID_3_LI">
+    <img width="660" src="/watchMovies/src/assets/getID_3_LI.jpg">
     </p>
     <h4>Pode-se também fazer a busca por título, usando a URL http://localhost:8080/movies/title/{title}, conforme demonstrado a seguir: </h4>
     <p alingn ="start">
-    <img width="360" src="/watchMovies/src/assets/getTitle_4_LI">
+    <img width="660" src="/watchMovies/src/assets/getTitle_4_LI.jpg">
     </p>
     <h4>Não é preciso buscar pelo título completo</h4>
     <p alingn ="start">
-    <img width="360" src="/watchMovies/src/assets/getTitleLetter_5_LI">
+    <img width="660" src="/watchMovies/src/assets/getTitleLetter_5_LI.jpg">
     </p>
     <h3>Pode ser feita a busca por gênero, usando a URL http://localhost:8080/movies/genres/{genres}, conforme demonstrado a seguir:</h3>
     <p alingn ="start">
-    <img width="360" src="/watchMovies/src/assets/getGenres_6_LI">
+    <img width="660" src="/watchMovies/src/assets/getGenres_6_LI.jpg">
     </p>
     <h4>Não é preciso buscar pelo nome completo do gênero </h4>
     <p alingn ="start">
-    <img width="360" src="/watchMovies/src/assets/getGenresLetter_7_LI">
+    <img width="660" src="/watchMovies/src/assets/getGenresLetter_7_LI.jpg">
     </p>
     
 8 - <h3>Para atualizar um dado inserido (PUT-UPDATE): </h3>
      Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "PUT" e no campo abaixo escreva a alteração que deseja fazer em formato JSON, lembrando de preencher as informações de {movieId},{title} para que seja identificado o dado exato que deseja alterar.
      <p alingn ="start">
-     <img width="360" src="/watchMovies/src/assets/Put_8_LI">
+     <img width="660" src="/watchMovies/src/assets/Put_8_LI.jpg">
      </p>
      
 9 - <h3>Para deletar um filme inserido (DELETE):</h3>
      Usando a URL http://localhost:8080/movies/{moviesId} (onde {moviesId} é o ID do filme que deseja deletar), selecione no campo de ação a opção "DELETE" e clique no botão "SEND"
       <p alingn ="start">
-     <img width="360" src="/watchMovies/src/assets/delete_9_LI">
+     <img width="660" src="/watchMovies/src/assets/delete_9_LI.jpg">
      </p>
     
 
