@@ -63,13 +63,13 @@ Testes de API POSTMAN; </h3>
     <img width="660" src="/watchMovies/src/assets/getGenresLetter_7_LI.jpg">
     </p>
     
-8 - <h3>Para atualizar um dado inserido (PUT-UPDATE): </h3>
+<h3>8 - Para atualizar um dado inserido (PUT-UPDATE): </h3>
      Usando a URL http://localhost:8080/movies, selecione no campo de ação a opção "PUT" e no campo abaixo escreva a alteração que deseja fazer em formato JSON, lembrando de preencher as informações de {movieId},{title} para que seja identificado o dado exato que deseja alterar.
      <p alingn ="start">
      <img width="660" src="/watchMovies/src/assets/Put_8_LI.jpg">
      </p>
      
-9 - <h3>Para deletar um filme inserido (DELETE):</h3>
+<h3>9 - Para deletar um filme inserido (DELETE):</h3>
      Usando a URL http://localhost:8080/movies/{moviesId} (onde {moviesId} é o ID do filme que deseja deletar), selecione no campo de ação a opção "DELETE" e clique no botão "SEND"
       <p alingn ="start">
      <img width="660" src="/watchMovies/src/assets/delete_9_LI.jpg">
